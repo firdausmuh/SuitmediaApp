@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SuitmediaApp</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">%1$s %2$s</string>
+    <string name="selected_username">Selected User Name</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="tv_username">first name last name</string>
+    <string name="email">userEmail@email.com</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="cannot_be_empty">field name cannot be empty</string>
+    <string name="ispalindrome">isPalindrom</string>
+    <string name="not_palindrome">Not Palindrom</string>
+    <string name="there_is_no_data">There is no more data</string>
+    <string name="try_again">try again</string>
+    <string name="dummy_name">John Doe</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+
+
+</resources>
